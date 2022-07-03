@@ -13,5 +13,5 @@ p {
 img {
     width: 200px;
     height: 220px;
-    display: inline;
+    display: block;
 }
