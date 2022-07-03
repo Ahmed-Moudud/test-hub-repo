@@ -10,3 +10,7 @@ p {
     background-color: red;
     color: #fff;
 }
+img {
+    width: 400px;
+    height: 400px;
+}
